@@ -1,0 +1,46 @@
+# Maven build folder
+target/
+
+# Maven wrapper jar (optional but often ignored)
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment variables
+.env
+.env.*
+.env.properties
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/nb-gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+### ENV Files ###
+.env.properties
